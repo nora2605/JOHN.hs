@@ -6,9 +6,6 @@ import Numeric
 import Data.Maybe
 import Data.Tuple
 
-main :: IO () 
-main = undefined
-
 data JohnValue
   = JohnAbyss
   | JohnBool Bool
